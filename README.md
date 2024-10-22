@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BFRS02773-kundan" alt="BFRS02773-kundan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ra_kri_si" target="blank"><img src="https://img.shields.io/twitter/follow/ra_kri_si?logo=twitter&style=for-the-badge" alt="ra_kri_si" /></a> </p>
+<p align="left"> <a href="https://twitter.com/BFRS02773-kundan" target="blank"><img src="https://img.shields.io/twitter/follow/BFRS02773-kundan?logo=twitter&style=for-the-badge" alt="BFRS02773-kundan" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -15,10 +15,10 @@
 <p align="left">
 <a href="https://codepen.io/BFRS02773-kundan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="BFRS02773-kundan" height="30" width="40" /></a>
 <a href="https://dev.to/BFRS02773-kundan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="BFRS02773-kundan" height="30" width="40" /></a>
-<a href="https://twitter.com/ra_kri_si" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ra_kri_si" height="30" width="40" /></a>
+<a href="https://twitter.com/BFRS02773-kundan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BFRS02773-kundan" height="30" width="40" /></a>
 <a href="https://codesandbox.com/radhesingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="radhesingh" height="30" width="40" /></a>
 <a href="https://fb.com/radhekrishna.singh.3011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="radhekrishna.singh.3011" height="30" width="40" /></a>
-<a href="https://instagram.com/ra_kri_si" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ra_kri_si" height="30" width="40" /></a>
+<a href="https://instagram.com/BFRS02773-kundan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="BFRS02773-kundan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/BFRS02773-kundan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="BFRS02773-kundan" height="30" width="40" /></a>
 </p>
 
